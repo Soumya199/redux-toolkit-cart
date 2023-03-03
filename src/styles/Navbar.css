@@ -1,0 +1,19 @@
+.nav-container{
+    background-color: rgb(108, 73, 236);
+    height: 50px;
+    display: flex;
+    align-items:center;
+    margin-bottom: 20px;
+
+}
+
+.nav-item{
+margin-left: 10px;
+text-decoration: none;
+color: white;
+border-radius: 5px;
+}
+
+.nav-item:hover{
+    background-color: rgb(70, 241, 27);
+}
